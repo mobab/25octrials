@@ -1,0 +1,5 @@
+805.002: (walk driver0 s2 s1)  [800.000]
+1605.003: (drive-vehicle driver0 truck1 s1 s0)  [200.000]
+1805.004: (load-vehicle package0 truck1 s0)  [20.000]
+1825.005: (drive-vehicle driver0 truck1 s0 s1)  [200.000]
+2025.006: (unload-vehicle package0 truck1 s1)  [20.000]
