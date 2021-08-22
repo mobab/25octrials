@@ -1,0 +1,16 @@
+
+; Version LPG-td-1.0
+; Seed 12382978
+; Command line: ./lpg-td-1.0 -o domain.pddl -f problem2.pddl -n 6 
+; Problem problem2.pddl
+; Time 0.00
+; Search time 0.00
+; Parsing time 0.00
+; Mutex time 0.00
+; MetricValue 315.50
+
+145.0022:   (CARRY ROBOT1 GLASS_ID07 KITCHEN1) [10.0000]
+155.0025:   (FILL ROBOT1 GLASS_ID07 KITCHEN1) [10.0000]
+165.0027:   (MOVE ROBOT1 KITCHEN1 CORRIDOR1) [110.0000]
+275.0030:   (GIVE ROBOT1 SENIOR2 GLASS_ID07 CORRIDOR1) [10.0000]
+285.0032:   (SOOTHEDRECIEVED SENIOR2 GLASS_ID07 CORRIDOR1) [30.0000]
