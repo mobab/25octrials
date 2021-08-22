@@ -1,0 +1,5 @@
+5.001: (move robot1 library1 corridor2)  [40.000]
+45.002: (carry robot1 violin_id01 corridor2)  [10.000]
+55.003: (move robot1 corridor2 kitchen1)  [60.000]
+115.004: (give robot1 senior7 violin_id01 kitchen1)  [10.000]
+125.005: (cheerrecieved senior7 violin_id01 kitchen1)  [30.000]
