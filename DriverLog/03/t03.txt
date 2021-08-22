@@ -1,0 +1,7 @@
+init (at truck0 s1)
+init (at driver0 s2)
+init (at package0 s2)
+goal: (at package0 s0)
+Failure: F3
+[After failure](driving driver5 truck_used_in_original+plan)
+[After failure](at truck3 locationOfOriginalTruck)
