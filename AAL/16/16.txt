@@ -1,0 +1,33 @@
+(:init 
+;;initial locations of seniors
+(be senior1 corridor2)
+(be senior2 dinning_room1)
+(be senior3 dinning_room1)
+(be senior4 bedroom2)
+(be senior5 corridor3)
+(be senior6 bedroom2)
+(be senior7 bedroom1)
+(be senior8 music_room1)
+;;initial location of robot
+(be robot1 corridor2)
+;;initial location of glasses
+(be glass_ID01 library1)
+(be glass_ID02 sunroom2)
+(be glass_ID03 kitchen1)
+(be glass_ID04 sunroom2)
+(be glass_ID05 corridor2)
+(be glass_ID06 corridor3)
+(be glass_ID07 bedroom1)
+(be glass_ID08 corridor1)
+;;initial location of violin
+(be violin_ID01 sunroom1)
+;;initial location of guitar
+(be guitar_ID01 corridor2)
+)
+;;The goal
+(entertained senior6)
+[Failure: F2(location of object)]
+[after failure]
+2.1 object at different location
+new loc of object used in plan= (be ?object sunroom1)
+Do not use same location
