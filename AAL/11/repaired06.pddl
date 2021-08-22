@@ -1,0 +1,7 @@
+5.001: (move robot1 bedroom2 corridor1)  [130.000]
+135.002: (carry robot1 glass_id01 corridor1)  [10.000]
+145.003: (move robot1 corridor1 kitchen1)  [110.000]
+255.004: (fill robot1 glass_id01 kitchen1)  [10.000]
+265.005: (move robot1 kitchen1 bedroom1)  [140.000]
+405.006: (give robot1 senior3 glass_id01 bedroom1)  [10.000]
+435.007: (soothedrecieved senior3 glass_id01 bedroom1)  [30.000]
