@@ -1,0 +1,33 @@
+(:init 
+;;initial locations of seniors
+(be senior1 dinning_room1)
+(be senior2 bedroom1)
+(be senior3 music_room1)
+(be senior4 library1)
+(be senior5 sunroom1)
+(be senior6 sunroom2)
+(be senior7 bedroom1)
+(be senior8 corridor1)
+;;initial location of robot
+(be robot1 corridor1)
+;;initial location of glasses
+(be glass_ID01 sunroom2)
+(be glass_ID02 corridor2)
+(be glass_ID03 kitchen1)
+(be glass_ID04 bedroom1)
+(be glass_ID05 corridor2)
+(be glass_ID06 bedroom1)
+(be glass_ID07 corridor2)
+(be glass_ID08 bedroom1)
+;;initial location of violin
+(be violin_ID01 corridor1)
+;;initial location of guitar
+(be guitar_ID01 library1)
+)
+;;The goal
+(entertained senior8)
+[Failure: F1(location of robot)]
+[after failure]
+Case 1.2 robot1 at different location and robot2 random location
+(be robot1 sunroom1)
+(be robot2 corridor1)
