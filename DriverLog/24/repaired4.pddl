@@ -1,0 +1,8 @@
+5.001: (disembark-vehicle driver3 truck0 s1)  [10.000]
+15.002: (board-vehicle driver2 truck0 s1)  [10.000]
+25.003: (drive-vehicle driver2 truck0 s1 s2)  [200.000]
+225.004: (load-vehicle package0 truck0 s2)  [20.000]
+225.004: (disembark-vehicle driver2 truck0 s2)  [10.000]
+235.005: (board-vehicle driver1 truck0 s2)  [10.000]
+245.006: (drive-vehicle driver1 truck0 s2 s0)  [200.000]
+445.007: (unload-vehicle package0 truck0 s0)  [20.000]
