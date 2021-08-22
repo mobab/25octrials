@@ -1,0 +1,5 @@
+5.001: (move robot1 bedroom2 dinning_room1)  [120.000]
+125.003: (carry robot1 magazine_id01 dinning_room1)  [10.000]
+135.004: (move robot1 dinning_room1 corridor2)  [40.000]
+175.005: (give robot1 senior3 magazine_id01 corridor2)  [10.000]
+185.006: (entertainment1recieved senior3 magazine_id01 corridor2)  [30.000]
