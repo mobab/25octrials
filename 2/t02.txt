@@ -1,7 +1,0 @@
-init (at truck0 s2)
-init (at driver0 s0)
-init (at package0 s1)
-goal: (at package0 s2)
-Failure: F3
-[After failure](driving driver5 truck_used_in_original+plan)
-[After failure](at truck3 locationOfOriginalTruck)
