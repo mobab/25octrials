@@ -1,9 +1,0 @@
-init (at truck0 s0)
-init (at driver0 s1)
-init (at package0 s2)
-goal: (at package0 s1)
-Failure: F1
-[After failure] Driver3: DoesNotExist
-[After failure] Driver0: s0
-[After failure] Driver1: DrivingTruck
-[After failure] Driver2: s0
