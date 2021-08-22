@@ -1,0 +1,8 @@
+init (at truck0 valencia)
+init (at van0 Chulilla)
+init (at package0 granada)
+goal: (at package0 sagunto)
+If the original plan used the truck then the failure is becaue the truck is at a different location
+problem2: (at truck0 granada)
+If the original plan used the van then the failure is becaue the van is at a different location
+problem2: (at van0 granada)
