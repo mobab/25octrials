@@ -1,0 +1,18 @@
+
+; Version LPG-td-1.0
+; Seed 81389063
+; Command line: ./lpg-td-1.0 -o domain.pddl -f problem.pddl -n 4 
+; Problem problem.pddl
+; Time 0.02
+; Search time 0.00
+; Parsing time 0.02
+; Mutex time 0.00
+; MetricValue 425.50
+
+125.0012:   (MOVE ROBOT1 CORRIDOR3 BEDROOM1) [130.0000]
+255.0015:   (CARRY ROBOT1 VIOLIN_ID01 BEDROOM1) [10.0000]
+265.0017:   (MOVE ROBOT1 BEDROOM1 LIBRARY1) [120.0000]
+385.0020:   (GIVE ROBOT1 SENIOR1 VIOLIN_ID01 LIBRARY1) [10.0000]
+395.0023:   (CHEERRECIEVED SENIOR1 VIOLIN_ID01 LIBRARY1) [30.0000]
+
+
